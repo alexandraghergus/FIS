@@ -36,7 +36,7 @@ public class Main {
         ProcesorCompus pc1 = new ProcesorCompus();
         pc1.adaugaProcesor(c1);
         pc1.adaugaProcesor(c2);
-        
+        //Modi
         ProcesorCompus pc2 = new ProcesorCompus();
         pc2.adaugaProcesor(pc1);
         pc2.adaugaProcesor(c3);
